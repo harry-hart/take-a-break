@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Test some text here
+
 
 # Research
 ## Breathing
