@@ -7,6 +7,16 @@ Our campaign aims to provide students an alternative to screen-time when taking 
 Below you can find research supporting the various methods and their benefits to your mental health.
 
 # Research
+## Harms of Excess Screen Time
+Reach for your cell phone at your own risk: The cognitive costs of media choice for breaks. 
+[DOI](https://doi.org:10.1556/2006.8.2019.21)
+
+Effects of Excessive Screen Time on Neurodevelopment, Learning, Memory, Mental Health, and Neurodegeneration: a Scoping Review
+[DOI](https://doi.org:10.1007/s11469-019-00182-2)
+
+Association between screen time and depression among US adults
+[DOI](https://doi.org:10.1016/j.pmedr.2017.08.005)
+
 ## Breathing
 Effects of sleep deprivation and 4-7-8 breathing control on heart rate variability, blood pressure, blood glucose, and endothelial function in healthy young adults. 
 [DOI](https://doi.org/10.14814/phy2.15389)
